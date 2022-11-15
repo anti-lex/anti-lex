@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anti-lex
 - 👀 I’m interested in web developement 
 - 🌱 I’m currently learning angular
-- 📫 How to reach me discord @spades#1600
+- quickest way to reach me is via discord @spades#1600
 - pfp by angel.scape
 <!---
 anti-lex/anti-lex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
